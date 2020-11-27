@@ -1,0 +1,10 @@
+C:\Users\alexa\source\repos\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Form1.resources
+C:\Users\alexa\source\repos\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Properties.Resources.resources
+C:\Users\alexa\source\repos\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe.config
+C:\Users\alexa\source\repos\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe
+C:\Users\alexa\source\repos\AppCalculator\AppCalculator\bin\Debug\AppCalculator.pdb
+C:\Users\alexa\source\repos\AppCalculator\AppCalculator\obj\Debug\AppCalculator.exe
+C:\Users\alexa\source\repos\AppCalculator\AppCalculator\obj\Debug\AppCalculator.pdb
